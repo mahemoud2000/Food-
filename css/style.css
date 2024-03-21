@@ -41,6 +41,7 @@ header .main-list .list {
     display: flex;
     flex-direction: column;
     gap: 10px;
+    border-radius: 5px;
 }
 header .main-list .list:hover .ch {
     width: 30px;
