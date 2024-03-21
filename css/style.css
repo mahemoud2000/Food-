@@ -515,6 +515,8 @@ footer .head .contact h4 {
 
 footer .head .contact .icon-contact img {
     width: 30px;
+    border-radius: 50%;
+    margin-right: 10px;
 }
 footer .head .contact .icon-contact span {
 
@@ -523,15 +525,19 @@ footer .head .contact .icon-contact span {
 footer .head .icones-social {
     display: flex;
     flex-direction: column;
+    gap: 20px;
 }
 footer .head .icones-social .photo-footer {
 
 }
 footer .head .icones-social .photo-footer img {
-    width: 150px;
+    width: 200px;
+    border-radius: 10px;
 }
 footer .head .icones-social .icones {
-    
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
 }
 footer .head .icones-social .icones img {
     width: 30px;
