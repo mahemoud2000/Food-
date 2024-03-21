@@ -497,6 +497,7 @@ footer .head {
     width: 100%;
     display: flex;
     justify-content: space-between;
+    gap: 50px;
 }
 footer .head .contact {
     display: flex;
